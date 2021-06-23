@@ -1,0 +1,10 @@
+{
+  "diretorio": {
+    "log": "C:/Log/",
+    "dirTemp": "C:/Log/Temp/",
+    "dirImg": "C:/GitHub/dxc_edi_relatorio_sla_mensal/imgs/"
+  },
+  "destino_name": "BR Cards Produção",
+  "emails": "daniel.alvesdias@dxc.com",
+  "acquirersIds": [12, 17, 18, 19]
+}

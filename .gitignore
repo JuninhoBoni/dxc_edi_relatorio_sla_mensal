@@ -7,7 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.scannerwork
+dxc_edi_email/
+instantclient_19_10/
 .Python
+.idea
 build/
 develop-eggs/
 dist/
